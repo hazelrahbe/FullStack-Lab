@@ -1,0 +1,14 @@
+[
+    {
+      "name": "BlackJack",
+      "live": "https://hazelrahbe.github.io/BlackJack/",
+      "git": "https://github.com/hazelrahbe/BlackJack",
+      "image": "https://i.imgur.com/Gy4z11R.png"
+    },
+    {
+      "name": "Noob Insider",
+      "live": "https://obscure-fortress-74365.herokuapp.com/games",
+      "git": "https://github.com/tjphillips08/Video-game-news",
+      "image": "https://i.imgur.com/bKHowdH.png"
+    }
+  ]
